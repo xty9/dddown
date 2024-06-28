@@ -5,11 +5,11 @@ on:
       - master
       
 env:
-  name: "CSI Fatal Conspiracy [RF]"
-  comment: "CSI Fatal Conspiracy [RF]"
-  url: "https://archive.org/download/XBOX_360_1/CSI%20Fatal%20Conspiracy%20%5BRF%5D.rar"
-  file_name: "CSI Fatal Conspiracy [RF].rar"
-  piece_size: 22 # Check the README.md for recommended piece size
+  name: "Battlefield 2142"
+  comment: "Battlefield 2142"
+  url: "https://archive.org/download/battlefield-2142_20210427/Battlefield%202142.iso"
+  file_name: "Battlefield 2142.iso"
+  piece_size: 21 # Check the README.md for recommended piece size
       
 jobs:
   create:
