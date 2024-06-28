@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "Icy Tower"
+  name: "Icy Tower2"
   comment: "Icy Tower (2001)"
-  url: "https://archive.org/download/Icy_Tower/icytower13.rar"
-  file_name: "icytower13.rar"
+  url: "https://ia804605.us.archive.org/17/items/turner_video_393475/393475.mp4"
+  file_name: "393475.mp4"
   piece_size: 19 # Check the README.md for recommended piece size
       
 jobs:
