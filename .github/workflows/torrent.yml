@@ -9,7 +9,7 @@ env:
   comment: "CSI Fatal Conspiracy [RF]"
   url: "https://archive.org/download/XBOX_360_1/CSI%20Fatal%20Conspiracy%20%5BRF%5D.rar"
   file_name: "CSIFatalConspiracy.rar"
-  piece_size: 19 # Check the README.md for recommended piece size
+  piece_size: 22 # Check the README.md for recommended piece size
       
 jobs:
   create:
