@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "Battlefield 2142"
-  comment: "Battlefield 2142"
-  url: "https://archive.org/download/battlefield-2142_20210427/Battlefield%202142.iso"
-  file_name: "Battlefield 2142.iso"
+  name: "Icy Tower"
+  comment: "Icy Tower (2001)"
+  url: "https://archive.org/download/Icy_Tower/icytower13.rar"
+  file_name: "icytower13.rar"
   piece_size: 19 # Check the README.md for recommended piece size
       
 jobs:
