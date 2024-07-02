@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "Deathmatch Classic"
-  comment: "Deathmatch Classic"
-  url: "https://archive.org/download/Deathmatch.Classic/Deathmatch.Classic.rar"
-  file_name: "Deathmatch Classic.rar"
+  name: "Métodos 3"
+  comment: "Métodos 3"
+  url: "https://drive.google.com/uc?export=download&id=1oSlu8YlX6JDzbaUJyDtWBzS_ufUFKOlF"
+  file_name: "Metodo_3.rar"
   piece_size: 19 # Check the README.md for recommended piece size
       
 jobs:
